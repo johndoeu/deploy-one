@@ -7,7 +7,7 @@ const Navigation = (): JSX.Element => {
       <Link href="/">
         <a className="text-gray-900 dark:text-white pr-6 py-4">It&apos;s Me</a>
       </Link>
-      <Link href="/about">
+      <Link href="/the-story">
         <a className="text-gray-900 dark:text-white px-6 py-4">The Story</a>
       </Link>
     </nav>
